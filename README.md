@@ -2,9 +2,10 @@
 
 #Orientações:
 
-Para que o programa rode, execute o arquivo telas.py
+Para que o programa rode, execute o arquivo telas.py.
 
-É necessário baixar todos os arquivos na mesma pasta, para que evitemos possíveis erros
+É necessário baixar todos os arquivos na mesma pasta, para que evitemos possíveis erros.
+
 Usuário cliente é o único que é possível cadastrar, os demais que são Usuário entregador e Usuário funcionário eles já estão cadastrados no banco de dados, caso queria 
 entrar como um entregador ou funcionário segue o login de ambos:
 
