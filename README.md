@@ -23,4 +23,4 @@ username: admin_funcionario, senha: senha1234
 
 username: Albertinho, senha: alb123
 
-username: Fran, senha: Fran
+username: Fran, senha: Fran123
